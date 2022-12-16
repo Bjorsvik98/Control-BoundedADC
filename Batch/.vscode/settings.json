@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "filter.h": "c",
+        "coefficients.h": "c",
+        "stdint.h": "c",
+        "random": "c"
+    }
+}
